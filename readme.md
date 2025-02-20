@@ -9,7 +9,7 @@ spectre.apikey = "aa2b1a-55kl4a-44aqp1"
 # This logins using your credentials which can be gained by buying or asking me for a key
 
 Whitelisting people and securing your script using spectre/astralguard
-
+```lua
 local spectre = loadstring(game:HttpGet('https://thisrepo.com'))() 
 
 spectre.apikey = "aa2b1a-55kl4a-44aqp1"
